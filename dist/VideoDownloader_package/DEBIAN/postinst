@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Verifica si el enlace simbólico ya existe
+if [ -L /usr/local/bin/videodownloader ]; then
+    # Elimina el enlace simbólico existente
+    rm /usr/local/bin/videodownloader
+fi
+
+# Crea un nuevo enlace simbólico
+ln -s /usr/local/bin/VideoDownloader /usr/local/bin/videodownloader

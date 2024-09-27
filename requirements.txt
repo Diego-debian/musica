@@ -1,0 +1,5 @@
+yt-dlp==2023.9.24
+kivy[full]
+plyer
+easygui
+pyinstaller

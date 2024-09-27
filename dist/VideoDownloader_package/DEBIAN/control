@@ -1,0 +1,7 @@
+Package: VideoDownloader
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Diego Parra <profediegoparra01@gmail.com>
+Description: VideoDownloader - Aplicación para descargar videos de YouTube como MP3 usando Kivy.
