@@ -36,7 +36,7 @@ pyinstaller
 Primero, clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tuusuario/videodownloaderapp.git
+git clone https://github.com/Diego-debian/musica.git
 cd videodownloaderapp
 ```
 
